@@ -1,3 +1,3 @@
 # Welcome to GitDocs
 
-test6
+test7
